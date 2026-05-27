@@ -12,3 +12,4 @@ x
 x
 <h2>I'm currently working on:</h2>
 x
+<h2>Contact me:</h2>
