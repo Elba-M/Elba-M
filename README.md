@@ -1,4 +1,4 @@
-<h1>Hey, I'm Elba <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Designer</a>, >3D Artist</a></h1>
+<h1>Hey, I'm Elba <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Designer</a>, and 3D Artist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
