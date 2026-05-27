@@ -1,4 +1,4 @@
-<h1>Hey, I'm Elba <br/><a href="https://github.com/joshmadakor1">I specialise in programming , game design and 3D art</a>
+<h1>Hey, I'm Elba <I specialise in programming , game design and 3D art</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
